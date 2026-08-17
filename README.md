@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🚀 Currently learning Machine Learning and Django.
+🚀 Currently learning Machine Learning and Dart.
 
 
 ## 🌐 Socials:
