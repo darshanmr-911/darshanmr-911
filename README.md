@@ -18,38 +18,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=darshanmr-911&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-name: Generate Snake
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"   # every 12 hours
-  workflow_dispatch: {}       # lets you trigger it manually
-  push:
-    branches:
-      - main
-
-jobs:
-  build:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate the snake game from GitHub contribution grid
-        uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
-      - name: Push snake to the output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
