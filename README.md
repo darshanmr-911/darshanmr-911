@@ -18,6 +18,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=darshanmr-911&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
