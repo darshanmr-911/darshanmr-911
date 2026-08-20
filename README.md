@@ -14,8 +14,7 @@
 ![](https://streak-stats.demolab.com/?user=darshanmr-911&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=darshanmr-911&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=darshanmr-911&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ---
 <!-- Snake Game Repo View -->
@@ -23,6 +22,11 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=darshanmr-911&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
