@@ -19,8 +19,13 @@
 ---
 <!-- Snake Game Repo View -->
 
+<!-- Snake Animation -->
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mithun50/mithun50/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mithun50/mithun50/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/mithun50/mithun50/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
