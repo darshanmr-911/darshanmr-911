@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🚀 Currently learning Machine Learning and Dart.
+🚀 Currently learning Flutter 📱 and Dart 🧑🏻‍💻.
 
 
 ## 🌐 Socials:
