@@ -1,7 +1,7 @@
 # Hi There👋
 
 # 💫 About Me:
-🚀 Currently learning Flutter 📱 and Dart 🧑🏻‍💻.
+🚀 Currently learning Flutter 📱 and Dart 🧑🏻‍💻<br>
 🤖Currently an AI&Ml 3️⃣🆁𝒅 Year Student🧑‍🎓
 
 
