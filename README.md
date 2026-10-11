@@ -1,9 +1,11 @@
 # Hi There👋
 
+
+
 <!-- Animated header -->
 <!-- Linux terminal header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=00FF41&background=0D1117&center=false&vCenter=true&multiline=true&repeat=false&width=650&height=190&lines=darshan%40linux%3A~%24+whoami;Darshan+M+R;darshan%40linux%3A~%24+cat+role.txt;AI%26ML+3rd+Year+Student;darshan%40linux%3A~%24+.%2Flearning+--now;Flutter+%26+Dart+%F0%9F%9A%80;darshan%40linux%3A~%24+_" alt="Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=00FF41&background=0D1117&center=false&vCenter=true&multiline=true&repeat=false&width=650&height=230&lines=darshanmr-911%3A~%24+whoami;Darshan+M+R;darshanmr-911%3A~%24+cat+role.txt;AI%26ML+3rd+Year+Student;darshanmr-911%3A~%24+.%2Flearning+--now;Flutter+%26+Dart;darshanmr-911%3A~%24+echo+%22Thank+you+for+visiting!%22;Thank+you+for+visiting+my+profile!+%F0%9F%92%9A;darshanmr-911%3A~%24+_" alt="Terminal Typing Animation" />
 </div>
 
 
