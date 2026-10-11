@@ -1,8 +1,21 @@
 # Hi There👋
 
+<!-- Animated header -->
+<!-- Linux terminal header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=00FF41&background=0D1117&center=false&vCenter=true&multiline=true&repeat=false&width=650&height=190&lines=darshan%40linux%3A~%24+whoami;Darshan+M+R;darshan%40linux%3A~%24+cat+role.txt;AI%26ML+3rd+Year+Student;darshan%40linux%3A~%24+.%2Flearning+--now;Flutter+%26+Dart+%F0%9F%9A%80;darshan%40linux%3A~%24+_" alt="Terminal" />
+</div>
+
+
 # 💫 About Me:
 🚀 Currently learning Flutter 📱 and Dart 🧑🏻‍💻<br>
 🤖Currently an AI&Ml 3️⃣🆁𝒅 Year Student🧑‍🎓
+
+<br>
+<div align="center">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="50%" alt="Pixel Art Coding Room" />
+</div>
+<br>
 
 
 
