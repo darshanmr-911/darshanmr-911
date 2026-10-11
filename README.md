@@ -1,15 +1,14 @@
-# Hi There👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=300&height=60&lines=Hi+There!+%F0%9F%91%8B;Welcome!+%F0%9F%8E%89" alt="Hi There" />
+</p>
 
 
-
-<!-- Animated header -->
 <!-- Linux terminal header -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=00FF41&background=0D1117&center=false&vCenter=true&multiline=true&repeat=false&width=650&height=230&lines=darshanmr-911%3A~%24+whoami;Darshan+M+R;darshanmr-911%3A~%24+cat+role.txt;AI%26ML+3rd+Year+Student;darshanmr-911%3A~%24+.%2Flearning+--now;Flutter+%26+Dart;darshanmr-911%3A~%24+echo+%22Thank+you+for+visiting!%22;Thank+you+for+visiting+my+profile!+%F0%9F%92%9A;darshanmr-911%3A~%24+_" alt="Terminal Typing Animation" />
 </div>
 
-
-
+<!-- Computer header -->
 <br>
 <div align="center">
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="50%" alt="Pixel Art Coding Room" />
@@ -50,6 +49,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=darshanmr-911&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
