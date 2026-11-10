@@ -1,11 +1,12 @@
 
-<!-- Typewriter Animation -->
+<!-- ============================================ -->
+<!--                  HEADER                      -->
+<!-- ============================================ -->
+
+<!-- Intro Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1500&color=00FF41&center=true&vCenter=true&width=1000&height=100&lines=Hi+There!+%F0%9F%91%8B;Welcome+to+my+Profile!+%F0%9F%8E%89;I'm+Darshan+M+R+%F0%9F%92%9A&repeat=true" alt="Typing Animation"/>
 </p>
-
-
-
 
 <!-- Terminal Introduction -->
 <div align="center">
@@ -26,8 +27,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1800&pause=700&color=00FF41&center=true&vCenter=true&width=850&height=100&lines=%5B+SYSTEM+ONLINE+%5D;%24+initializing+developer+environment...;%24+loading+AI+%26+ML+modules...;%24+access+granted+%E2%9C%94;%24+keep+learning.+keep+building." alt="Hacker Terminal Animation"/>
 </div>
 
-
-
 ---
 
 ## 🌐 Socials
@@ -44,8 +43,35 @@
   </a>
 </p>
 
+---
+
+<!-- ============================================ -->
+<!--          ANIMATED AI NEURAL NETWORK          -->
+<!-- ============================================ -->
+
+## 🤖 AI Neural Network
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=50&lines=%24+Initializing+Neural+Network...;%24+Training+AI+Model...;%24+Learning+in+Progress...;%24+System+Online+%E2%9C%94" alt="AI Terminal Animation"/>
+
+  <br>
+
+  <img src="./assets/neural-network.svg"
+       width="100%"
+       alt="Animated Neural Network"/>
+
+  <br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=40&lines=INPUT+%E2%86%92+PROCESSING+%E2%86%92+OUTPUT;Artificial+Intelligence+%F0%9F%A4%96;Building+the+Future+with+Code+%F0%9F%92%9A" alt="Neural Network Status"/>
+
+</div>
 
 ---
+
+<!-- ============================================ -->
+<!--                  TECH STACK                  -->
+<!-- ============================================ -->
 
 ## 💻 Tech Stack
 
@@ -102,6 +128,10 @@
 
 ---
 
+<!-- ============================================ -->
+<!--               DEVELOPER STATUS               -->
+<!-- ============================================ -->
+
 ## ⚡ Developer Status
 
 <div align="center">
@@ -111,6 +141,10 @@
 </div>
 
 ---
+
+<!-- ============================================ -->
+<!--                GITHUB STATS                  -->
+<!-- ============================================ -->
 
 ## 📊 GitHub Stats
 
@@ -125,6 +159,10 @@
 
 ---
 
+<!-- ============================================ -->
+<!--              CONTRIBUTION SNAKE              -->
+<!-- ============================================ -->
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -138,6 +176,10 @@
 </div>
 
 ---
+
+<!-- ============================================ -->
+<!--                    FOOTER                    -->
+<!-- ============================================ -->
 
 ## 💚 Thanks for Visiting
 
