@@ -46,6 +46,19 @@
 ---
 
 <!-- ============================================ -->
+<!--                PROFILE VIEWS                 -->
+<!-- ============================================ -->
+
+## 👀 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=darshanmr-911&label=PROFILE%20VIEWS&color=00FF41&style=for-the-badge" alt="Profile Views👀"/>
+</div>
+
+
+---
+
+<!-- ============================================ -->
 <!--          ANIMATED AI NEURAL NETWORK          -->
 <!-- ============================================ -->
 
@@ -126,7 +139,6 @@
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
 ---
 
 <!-- ============================================ -->
@@ -182,7 +194,7 @@
 <!--                    FOOTER                    -->
 <!-- ============================================ -->
 
-## 💚 Thanks for Visiting
+## 💚 Thanks for Visiting 💚
 
 <div align="center">
 
